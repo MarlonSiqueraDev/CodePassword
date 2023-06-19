@@ -14,6 +14,23 @@ Descodificar uma Senha.
 Na primeira opção, O usuário vai digitar sua senha e retornará sua senha encriptada.
 Na segunda opção, o usuário vai digitar o codigo da sua senha e retornará sua senha.
 
+Exemplo de execução:
+O que você deseja fazer?
+Para codificar uma senha, digite 1.   
+Para descodificar uma senha, digite 2.
+Responda: 1
+Digite sua senha:
+1234abcd
+Codificada:  R7EWQ568
+
+O que você deseja fazer?
+Para codificar uma senha, digite 1.
+Para descodificar uma senha, digite 2.
+Responda: 2
+Digite a senha codificada:
+R7EWQ568
+Sua Senha é:  1234abcd
+
 Ensglish
 Hello, this project was developed to encrypt passwords for users who would like to keep them safe somehow.
 I used a dictionary so that different characters are used during encryption. This dictionary could be changed according to the user's needs.
@@ -28,3 +45,20 @@ Decode a Password.
 
 In the first option, the user will enter his password and will return his encrypted password.
 In the second option, the user will enter his password code and will return his password.
+
+Execution example:
+What do you want to do?
+To encode a password, type 1.
+To decode a password, type 2.
+Answer: 1
+Type your password:
+1234abcd
+Encoded: R7EWQ568
+
+What do you want to do?
+To encode a password, type 1.
+To decode a password, type 2.
+Answer: 2
+Enter the encoded password:
+R7EWQ568
+Your Password is: 1234abcd
